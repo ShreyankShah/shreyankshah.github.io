@@ -1,0 +1,29 @@
+title: Shreyank Shah | Software Engineer | Bangalore | Portfolio
+
+tagline: Portfolio of Shreyank Shah
+
+description: Shreyank, Shah, Shreyank Shah, ShreyankShah, shreyank.shah, ShreyankShahK, Portfolio, Software Engineer, Bangalore
+
+picture: img/shreyank.jpg
+
+image: img/shreyank.jpg
+
+url: https://shreyankshah.github.io
+
+author: Shreyank Shah
+
+twitter:
+  username: ShreyankShahK
+  card: summary
+
+social:
+  name: Shreyank Shah
+  links:
+    - https://twitter.com/ShreyankShahK
+    - https://www.facebook.com/ShreyankShahK
+    - https://www.linkedin.com/in/ShreyankShah
+    - https://github.com/ShreyankShah
+    - https://www.instagram.com/shreyank.shah
+
+plugins:
+  - jekyll-seo-tag
